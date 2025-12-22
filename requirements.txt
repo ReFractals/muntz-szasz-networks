@@ -1,0 +1,22 @@
+# Müntz-Szász Networks - Requirements
+# =====================================
+
+# Core dependencies
+torch>=2.0.0
+numpy>=1.20.0
+
+# Visualization
+matplotlib>=3.5.0
+
+# Optional: for experiments and notebooks
+tqdm>=4.60.0
+scipy>=1.7.0
+
+# Optional: for interactive notebooks
+jupyter>=1.0.0
+ipywidgets>=7.6.0
+
+# Optional: for development
+pytest>=7.0.0
+black>=22.0.0
+isort>=5.10.0
