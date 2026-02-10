@@ -249,12 +249,12 @@ MSN is grounded in the **Müntz-Szász theorem** (1914):
 If you use this code in your research, please cite:
 
 ```bibtex
-@article{nguessan2024muntz,
-  title={Müntz-Szász Networks: Neural Architectures with Learnable Power-Law Bases},
-  author={N'guessan, Gnankan Landry Regis},
-  journal={arXiv preprint},
-  year={2024},
-  note={Code: https://github.com/ReFractals/muntz-szasz-networks}
+@article{nguessan2025msn,
+  author    = {N'guessan, Gnankan Landry Regis},
+  title     = {Müntz-Szász Networks: Neural Architectures with Learnable Power-Law Bases},
+  journal   = {arXiv preprint arXiv:2512.22222},
+  year      = {2025},
+  url       = {https://arxiv.org/abs/2512.22222}
 }
 ```
 
